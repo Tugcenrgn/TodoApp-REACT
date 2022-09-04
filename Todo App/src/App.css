@@ -1,0 +1,94 @@
+.app {
+    padding: 30px;
+    background-color: floralwhite;
+  }
+  
+  .text {
+    font-family: "Luxurious Script", cursive;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.75);
+    text-align: center;
+    color: white;
+  }
+  
+  .container {
+    margin-left: 35%;
+    width: 500px;
+    background: linear-gradient(
+      180deg,
+      rgba(140, 192, 222, 1) 8%,
+      rgba(255, 217, 192, 1) 45%,
+      rgba(250, 222, 203, 1) 48%,
+      rgba(249, 203, 191, 1) 61%
+    );
+    -webkit-box-shadow: 10px 10px 5px -7px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 10px 5px -7px rgba(0, 0, 0, 0.75);
+    box-shadow: 10px 10px 5px -7px rgba(0, 0, 0, 0.75);
+    border-radius: 20px;
+    height: 500px;
+  }
+  
+  .todo {
+    align-items: center;
+    background-color: #ffb2a6;
+    box-shadow: beige;
+    text-align: center;
+    display: flex;
+    font-size: 18px;
+    justify-content: space-between;
+    border-radius: 30px;
+    margin: 10px;
+    padding: 6px;
+    padding-left: 20px;
+    -webkit-box-shadow: 10px 10px 5px -7px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 10px 5px -7px rgba(0, 0, 0, 0.75);
+    box-shadow: 10px 10px 5px -7px rgba(0, 0, 0, 0.75);
+  }
+  
+  .span-item {
+    color: #c1efff;
+    text-decoration: bold;
+    font-family: "Luxurious Script", cursive;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.75);
+  }
+  
+  button {
+    background-color: #8cc0de;
+    border-radius: 50%;
+    border-style: none;
+    margin-right: 8px;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.75);
+  }
+  
+  .input {
+    background-color: #daeaf1;
+    align-items: center;
+    margin-left: 40px;
+    padding: 8px;
+    padding-left: 15px;
+    border-radius: 20px;
+    -webkit-box-shadow: 10px 10px 5px -7px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 10px 5px -7px rgba(0, 0, 0, 0.75);
+    box-shadow: 10px 10px 5px -7px rgba(0, 0, 0, 0.75);
+    border: none;
+  }
+  
+  .header2 {
+    font-family: "Luxurious Script", cursive;
+    color: #f4bfbf;
+    text-shadow: 2px 1px 1px rgba(0, 0, 0, 0.75);
+    margin-left: 28px;
+  }
+  
+  .submitButton {
+    font-family: "Luxurious Script", cursive;
+    color: white;
+    text-shadow: 2px 1px 1px rgba(0, 0, 0, 0.75);
+    padding: 8px;
+    text-align: center;
+    margin-left: 260px;
+    margin-top: 20px;
+    -webkit-box-shadow: 10px 10px 5px -7px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 10px 5px -7px rgba(0, 0, 0, 0.75);
+    box-shadow: 10px 10px 5px -7px rgba(0, 0, 0, 0.75);
+  }
+  
